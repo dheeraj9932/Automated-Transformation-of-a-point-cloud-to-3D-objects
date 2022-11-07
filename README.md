@@ -1,5 +1,13 @@
 # Automated Transformation of a point cloud to 3D object
 
+![](pipeline_1.png)*Visualization of pipeline of slicing and object detection*
+![](slicing strategy.png)*Visualisation of various slice sizes with respect to the longest side/length of the Office scene point cloud*
+![](3d_to_2d_1.JPG)*How a 3d point cloud is sliced and projected to create a 2d Image*
+![](visualisation_of_detection.png)*Visualisation of object detected in 2d image and display on point cloud slice*
+![](cropped_pcd.JPG)*Displaying the isolated point cloud of the object detected*
+![](cropped_pcd_2.JPG)*Displaying the isolated point cloud of the object detected*
+
+
 ## Briefly about the project
 In this project I have explored the technique of slicing and projecting the point cloud to form a 2D image to use a state-of-the-art 2D image detection technique to extract information about the ’position’ and ’identity’ of the objects in point cloud scene, with least amount of user intervention.
 
