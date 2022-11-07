@@ -1,0 +1,1 @@
+CloudCompare -AUTO_SAVE OFF -O cube.ply -O test.ply  -MERGE_MESHES -M_EXPORT_FMT PLY  -PLY_EXPORT_FMT ASCII -SAVE_MESHES FILE "C:\Users\Dheeraj\Desktop\file2.ply"
