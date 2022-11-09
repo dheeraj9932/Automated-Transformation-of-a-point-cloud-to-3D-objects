@@ -1,7 +1,7 @@
 # Automated Transformation of a point cloud to 3D object
 
 ![](pipeline_1.png)*Visualization of pipeline of slicing and object detection*
-![](slicing strategy.png)*Visualisation of various slice sizes with respect to the longest side/length of the Office scene point cloud*
+![](slicing_strategy.png)*Visualisation of various slice sizes with respect to the longest side/length of the Office scene point cloud*
 ![](3d_to_2d_1.JPG)*How a 3d point cloud is sliced and projected to create a 2d Image*
 ![](visualisation_of_detection.png)*Visualisation of object detected in 2d image and display on point cloud slice*
 ![](cropped_pcd.JPG)*Displaying the isolated point cloud of the object detected*
